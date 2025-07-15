@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditi+Jain;ML+Researcher+%E2%80%A2+Software+Engineer+%E2%80%A2+Builder+of+Future+Systems" alt="Typing SVG" />
+  <img src="https://svgshare.com/i/11Yx.svg" alt="Aditi Jain - ML Researcher • Software Engineer • Builder of Future Systems" />
 </h1>
+
 
 <p align="center">
   <a href="https://aditi-jain.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
