@@ -45,12 +45,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditi-jain1&show_icons=true&theme=radical" alt="Aditi's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-jain1&theme=radical" alt="Aditi's GitHub streak" />
-</p>
-
 ---
 
 ### 🌐 Connect With Me
