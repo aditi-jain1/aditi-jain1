@@ -1,7 +1,11 @@
 
-<h1 align="center">
- Aditi Jain
+<h1 align="center" style="font-family: Fira Code, monospace; font-size: 3em; background: linear-gradient(90deg, #F76C6C, #7F5AF0, #2CB67D); -webkit-background-clip: text; color: transparent;">
+  Aditi Jain
 </h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=ML+Researcher;Software+Engineer;Builder+of+Future+Systems" alt="Typing SVG" />
+</h3>
+
 
 
 <p align="center">
