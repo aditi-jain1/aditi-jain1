@@ -1,53 +1,62 @@
-<h1 align="center">Hi 👋, I'm Aditi Jain</h1>
-<h3 align="center">ML Researcher • Software Engineer • Builder of Future Systems</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditi+Jain;ML+Researcher+%E2%80%A2+Software+Engineer+%E2%80%A2+Builder+of+Future+Systems" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://aditi-jain.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:aditijain@berkeley.edu"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:aditijain@berkeley.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/aditi-jain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/aditijain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 🌟 About Me
 - 🎓 **EECS @ UC Berkeley** (B.S., Class of 2027)  
 - 📚 Honors: EECS Honor Society (Top 25% of juniors/seniors), SWE, AWE  
-- 🔬 ML Researcher @ [BAIR](https://bair.berkeley.edu/)
-- 💡 Passionate about building **intelligent systems** at the intersection of AI, hardware, and healthcare  
-- 🌱 Currently exploring **transformers for spatiotemporal data** & **chip design automation**  
+- 🔬 ML Researcher @ [BAIR](https://bair.berkeley.edu/)  
+- 💡 Building **intelligent systems** at the intersection of AI, hardware, and healthcare  
 - 🏆 Hackathon Grand Prize Winner – UC Berkeley AI Hackathon  
+- 🌱 Currently exploring **transformers for spatiotemporal data** & **chip design automation**  
 
 ---
 
-### 🚀 Projects & Research
-- 💬 **ChipChat** – Democratizing chip design with an AI-powered Verilog-to-GDSII synthesis pipeline (💥 Grand Prize, Berkeley AI Hackathon)  
-- 🧠 **Transformer Models for Hand Action Video Captioning** – BAIR 
-- 🧬 **Drug Discovery ML Models** – Hybrid 2D/3D activity prediction using D-MPNNs (Merck & Co.)  
-- 🛰 **Autonomous Rover & CubeSat Development** – BEAR (URC) & Irvine CubeSat missions  
-- 💫 **Image Processing Pipeline for NASA's COSI Telescope** - Space Sciences Laboratory
+## 🚀 Projects & Research Highlights
+✨ **ChipChat** – Democratizing chip design (💥 Grand Prize, Berkeley AI Hackathon)  
+🧠 **Transformer Models for Hand Action Video Captioning** – BAIR  
+🧬 **Drug Discovery ML Models** – Hybrid 2D/3D activity prediction (Merck & Co.)  
+🛰 **Autonomous Rover & CubeSat Development** – BEAR (URC) & Irvine CubeSat  
+💫 **NASA’s COSI Telescope Image Pipeline** – Space Sciences Lab  
 
 ---
 
-### 🛠️ Tech Stack
+## 🔥 Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,react,docker,postgres,aws,arduino&perline=6" />
 </p>
 
 ---
 
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditijain&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditijain&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%"/>
+</p>
+
 ---
 
-### 🌐 Connect With Me
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aditijain&theme=radical&margin-w=15&no-frame=true&no-bg=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/aditi-jain">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
@@ -66,5 +75,9 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aditijain" alt="visitors" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=aditijain&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aditijain.aditijain&style=flat-square&color=F76C6C" alt="visitors" />
 </p>
