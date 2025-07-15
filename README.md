@@ -67,8 +67,4 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" alt="Website"/>
     </a>
   </p>
-
-  <p align="center" style="margin-top:40px;">
-    <img src="https://activity-graph.herokuapp.com/graph?username=aditijain&theme=tokyo-night&hide_border=true" width="100%" />
-  </p>
 </div>
