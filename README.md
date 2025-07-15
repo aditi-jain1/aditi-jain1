@@ -1,6 +1,6 @@
 
 <h1 align="center">
- Aditi Jain - ML Researcher • Software Engineer • Builder of Future Systems"
+ Aditi Jain
 </h1>
 
 
