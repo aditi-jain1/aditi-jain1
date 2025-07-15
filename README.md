@@ -32,7 +32,7 @@
 
 ## 🔥 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,react,docker,postgres,aws,arduino&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,react,docker,postgres,aws,figma,linux,mysql,nextjs,nodejs,postman,vscode,arduino&perline=6" />
 </p>
 
 ---
