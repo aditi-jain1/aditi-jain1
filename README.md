@@ -13,7 +13,7 @@
 ### 👩‍💻 About Me
 - 🎓 **EECS @ UC Berkeley** (B.S., Class of 2027)  
 - 📚 Honors: EECS Honor Society (Top 25% of juniors/seniors), SWE, AWE  
-- 🔬 ML Researcher @ [BAIR](https://bair.berkeley.edu/) under Prof. Jitendra Malik  
+- 🔬 ML Researcher @ [BAIR](https://bair.berkeley.edu/)
 - 💡 Passionate about building **intelligent systems** at the intersection of AI, hardware, and healthcare  
 - 🌱 Currently exploring **transformers for spatiotemporal data** & **chip design automation**  
 - 🏆 Hackathon Grand Prize Winner – UC Berkeley AI Hackathon  
@@ -22,11 +22,10 @@
 
 ### 🚀 Projects & Research
 - 💬 **ChipChat** – Democratizing chip design with an AI-powered Verilog-to-GDSII synthesis pipeline (💥 Grand Prize, Berkeley AI Hackathon)  
-- 🧠 **14M Transformer for Hand Action Video Captioning** – BAIR (Targeting CVPR 2026)  
+- 🧠 **Transformer Models for Hand Action Video Captioning** – BAIR 
 - 🧬 **Drug Discovery ML Models** – Hybrid 2D/3D activity prediction using D-MPNNs (Merck & Co.)  
 - 🛰 **Autonomous Rover & CubeSat Development** – BEAR (URC) & Irvine CubeSat missions  
-- 🔐 **Encrypted File Storage System** – Secure, distributed, and cryptographically robust  
-- 📦 **Full-Stack Relational DBMS** – Built a SQL engine with B+ trees, locking, and cost-based optimization  
+- 💫 **Image Processing Pipeline for NASA's COSI Telescope** - Space Sciences Laboratory
 
 ---
 
@@ -48,8 +47,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditijain&show_icons=true&theme=radical" alt="Aditi's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditijain&theme=radical" alt="Aditi's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditi-jain1&show_icons=true&theme=radical" alt="Aditi's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-jain1&theme=radical" alt="Aditi's GitHub streak" />
 </p>
 
 ---
