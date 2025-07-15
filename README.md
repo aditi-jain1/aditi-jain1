@@ -46,14 +46,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-jain1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditi-jain1&theme=radical&margin-w=15&no-frame=true&no-bg=true" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
@@ -78,6 +70,3 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=aditijain&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aditijain.aditijain&style=flat-square&color=F76C6C" alt="visitors" />
-</p>
