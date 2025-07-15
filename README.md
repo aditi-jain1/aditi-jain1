@@ -39,19 +39,19 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditijain&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditijain&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditi-jain1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-jain1&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-jain1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditijain&theme=radical&margin-w=15&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aditi-jain1&theme=radical&margin-w=15&no-frame=true&no-bg=true" />
 </p>
 
 ---
