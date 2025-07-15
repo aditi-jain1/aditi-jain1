@@ -1,5 +1,6 @@
+
 <h1 align="center">
-  <img src="https://svgshare.com/i/11Yx.svg" alt="Aditi Jain - ML Researcher • Software Engineer • Builder of Future Systems" />
+ Aditi Jain - ML Researcher • Software Engineer • Builder of Future Systems"
 </h1>
 
 
